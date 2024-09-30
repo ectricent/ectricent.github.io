@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ectricent.github.io/sitemap.html.gz
+Sitemap: https://ectricent.github.io/app/sitemap.html.gz
+Sitemap: https://ectricent.github.io/assets/sitemap.html.gz
+Sitemap: https://ectricent.github.io/css/sitemap.html.gz
+Sitemap: https://ectricent.github.io/data/sitemap.html.gz
+Sitemap: https://ectricent.github.io/includes/sitemap.html.gz
+Sitemap: https://ectricent.github.io/item/sitemap.html.gz
+Sitemap: https://ectricent.github.io/src/sitemap.html.gz
